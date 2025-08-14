@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c8fcddb4cd1981d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "677704bc6e26b30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9a9ae89f569682a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "599191c790404e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb1e856b1bad45ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a467cebcc8e2c5fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffba2ef22cabfad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0b60580bd1f1329",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "630f0e6d5dbe5187",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19b34a7ddcc8b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9561c535acb3209e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stakeholder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stakeholder"
+            }
+          },
+          {
+            "id": "e47168d3c6fbbe7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stakeholder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stakeholder"
+            }
+          },
+          {
+            "id": "eb70774ea17351a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f7bbbe5635abd55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stakeholder.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stakeholder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c9a9ae89f569682a",
+  "lastOpenFiles": [
+    "07_Mantenimiento/Monitoreo de Aplicación.md",
+    "Atomic Template 1 1.md",
+    "Stakeholder.md",
+    "08_Templates/Atomic Template.md",
+    "Untitled.md",
+    "Untitled 17.md",
+    "Untitled 16.md",
+    "Untitled 15.md",
+    "Untitled 14.md",
+    "Untitled 13.md",
+    "Untitled 12.md",
+    "Untitled 11.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "02_Requirimientos/Entrevistas.md",
+    "Conceptos básicos/Untitled.md",
+    "09_Conceptos básicos",
+    "05_Pruebas/Pruebas Unitarias.md",
+    "Requerimientos no funcionales",
+    "Requerimientos de Sistema",
+    "Requerimiento de Negocio",
+    "Stakeholder",
+    "01_Procesos de Desarrollo/Scrum.md"
+  ]
+}
