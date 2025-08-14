@@ -16,7 +16,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[Scrum ]]
+- [[01_Procesos de Desarrollo/Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

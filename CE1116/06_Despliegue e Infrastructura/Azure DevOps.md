@@ -14,7 +14,7 @@ Tema: control-ciclo-vida-producto
 - 
 
 ## 🔗 Connections
-- [[Scrum]]
+- [[01_Procesos de Desarrollo/Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

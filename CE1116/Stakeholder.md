@@ -5,7 +5,7 @@ tags:
   - Conceptos-basicos
 Tema: desarrollo-software
 ---
-
+2025-08-14
 
 ## 📚 Idea/Concepto 
 Cualquier persona o entidad con inteŕes, o algún impacto en el proyecto. Es necesario que participen en el proyecto, ya que sus necesidades y feedback definen los requisitos del proyecto de software.
